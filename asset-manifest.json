@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hunting-monsters/static/css/main.d7a9a18f.css",
+    "main.js": "/hunting-monsters/static/js/main.00d8dae0.js",
+    "static/js/787.4e61ed83.chunk.js": "/hunting-monsters/static/js/787.4e61ed83.chunk.js",
+    "index.html": "/hunting-monsters/index.html",
+    "main.d7a9a18f.css.map": "/hunting-monsters/static/css/main.d7a9a18f.css.map",
+    "main.00d8dae0.js.map": "/hunting-monsters/static/js/main.00d8dae0.js.map",
+    "787.4e61ed83.chunk.js.map": "/hunting-monsters/static/js/787.4e61ed83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a9a18f.css",
+    "static/js/main.00d8dae0.js"
+  ]
+}
